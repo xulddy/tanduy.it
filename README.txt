@@ -9,7 +9,6 @@ Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
-
 CREDITS:
 
 Bootstrap
@@ -51,6 +50,6 @@ http://www.owlcarousel.owlgraphic.com/
 EasyPieChart
 https://github.com/rendro/easy-pie-chart
 
-Demo Images:
-http://unsplash.com
+Demo : [Link Preview](https://htmlpreview.github.io/?https://github.com/xulddy/tanduy.it/blob/master/index.html)
+
 
